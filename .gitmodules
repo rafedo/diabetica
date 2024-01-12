@@ -1,0 +1,6 @@
+[submodule "backend-diabetica"]
+	path = backend-diabetica
+	url = https://github.com/rafedo/diabetica-backend.git
+[submodule "mobile-diabetica"]
+	path = mobile-diabetica
+	url = https://github.com/aisyalfawwaz/diabetica.git
