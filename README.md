@@ -70,7 +70,7 @@ To get started with Diabetica, follow the instructions below.
 
 ### Setting Up the Development Environment 🛠️
 
-1. Clone the repository: `git clone https://github.com/your-username/diabetica.git`
+1. Clone the repository: `git clone https://github.com/rafedo/diabetica.git`
 2. Navigate to the project directory: `cd diabetica`
 
 ### Building and Running 🏃‍♂️
@@ -78,6 +78,7 @@ To get started with Diabetica, follow the instructions below.
 #### Frontend (Flutter)
 
 ```bash
+cd mobile-diabetica
 flutter pub get
 flutter run
 ```
@@ -85,7 +86,7 @@ flutter run
 #### Backend (Go)
 
 ```bash
-cd diabetica-backend
+cd backend-diabetica
 go run main.go
 ```
 
